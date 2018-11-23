@@ -4,7 +4,7 @@ from renderlib import *
 from easing import *
 
 # URL to Schedule-XML
-scheduleUrl = 'https://team.rrbone.net/public/rustfest18.xml'
+scheduleUrl = 'https://rome.rustfest.eu/schedule.xml'
 
 def introFrames(args):
 #fade in pillgroup0
